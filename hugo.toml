@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://https://fernxndk.github.io/site/'
 languageCode = 'en-us'
 title = 'Luiz Fernando F.'
 theme = 'cactus'
@@ -6,8 +6,11 @@ theme = 'cactus'
 [params]
 	description = "Estudante de computação e entusiasta de segurança da informação e novas tecnologias. Desde pequeno tive fascínio por computadores e procurava entender melhor como eles funcionavam, gosto de objetivos ambiciosos e de pensar em como podemos antecipar o futuro. Trabalhar com software é muito interessante e quero participar de projetos desse tipo."
 	mainSection = "posts"
-	mainSectionTitle = "Blog"
-	
+	mainSectionTitle = "Posts"
+	showProjectsList = true
+	projectsUrl = "https://github.com/fernxndk"	
+
+
 [[params.social]]
   name = "github"
   link = "https://github.com/fernxndk"
