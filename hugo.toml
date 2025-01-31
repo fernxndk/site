@@ -1,4 +1,4 @@
-baseURL = 'https://https://fernxndk.github.io/site/'
+baseURL = 'https://fernxndk.github.io/site/'
 languageCode = 'en-us'
 title = 'Luiz Fernando F.'
 theme = 'cactus'
@@ -9,8 +9,9 @@ theme = 'cactus'
 	mainSectionTitle = "Posts"
 	showProjectsList = true
 	projectsUrl = "https://github.com/fernxndk"	
-
-
+	css = ["css/custom.css"]
+	colortheme = "classic"
+	
 [[params.social]]
   name = "github"
   link = "https://github.com/fernxndk"

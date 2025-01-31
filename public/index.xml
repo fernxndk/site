@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiz Fernando F.</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/site/</link>
     <description>Recent content on Luiz Fernando F.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jan 2025 19:59:00 -0300</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is a test</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/site/posts/my-first-post/</link>
       <pubDate>Thu, 30 Jan 2025 19:59:00 -0300</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/site/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
     </item>
   </channel>
