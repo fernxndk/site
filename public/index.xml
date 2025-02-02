@@ -6,14 +6,14 @@
     <description>Recent content on Luiz Fernando F.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2025 19:59:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 19:47:29 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is a test</title>
-      <link>http://localhost:1313/site/posts/my-first-post/</link>
-      <pubDate>Thu, 30 Jan 2025 19:59:00 -0300</pubDate>
-      <guid>http://localhost:1313/site/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+      <title>Análise De algoritmos</title>
+      <link>http://localhost:1313/site/posts/analise-de-algoritmos/</link>
+      <pubDate>Sun, 02 Feb 2025 19:47:29 -0300</pubDate>
+      <guid>http://localhost:1313/site/posts/analise-de-algoritmos/</guid>
+      <description>&lt;p&gt;Analisar um algoritmo significa prever a quantidade de recursos que ele consome ao ser executado. A análise pode apontar diversos candidatos para os casos de uso e exclui soluções ineficientes. Entender como esses algoritmos se comportam à medida que aumentamos o tamanho da entrada a ser processada é primordial para decidirmos qual solução adotar em um determinado contexto.&lt;/p&gt;&#xA;&lt;h2 id=&#34;análise-empírica&#34;&gt;Análise empírica&lt;/h2&gt;&#xA;&lt;p&gt;Uma abordagem direta para analisar o desempenho de um algoritmo é a abordagem empírica. A análise empírica envolve configurar um ambiente com váriaveis controladas e executar o algoritmo para avaliar seu desempenho com base em dados coletados como &lt;em&gt;tempo de execução, consumo de memória, número de operações, largura de banda&lt;/em&gt;, entre outros.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
