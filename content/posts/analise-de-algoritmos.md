@@ -1,6 +1,6 @@
 +++
 date = '2025-02-02T19:47:29-03:00'
-draft = true
+draft = false
 title = 'Análise De algoritmos'
 +++
 
